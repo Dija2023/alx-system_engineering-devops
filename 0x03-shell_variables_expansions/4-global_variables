@@ -1,3 +1,2 @@
 #!/bin/bash
-printenv
-
+sh: 1: :wq: not found
